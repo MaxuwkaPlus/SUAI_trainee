@@ -3,7 +3,7 @@ body {
 }
 
 header {
-  background-color: #99ccff;
+  background-color: #0f4e8d;
   font-family: "Gill Sans", system-ui;
   font-weight: 100;
   margin: 0 auto;
@@ -27,16 +27,16 @@ a {
 }
 
 .text-colorTR {
-  color: #ffffff;
+  color: #da406e;
   margin-left: 50px;
 }
 
 .text-colorBL {
-  color: #004285;
+  color: #ffffff;
 }
 
 .top-position a:hover {
-  background-color: #162b4d;
+  background-color: #be033b;
 }
 
 .section-position {
@@ -134,7 +134,7 @@ a {
 }
 
 #child-post-two {
-  top: 100px;
+  top: 60px;
 }
 
 #main-post-three {
@@ -142,7 +142,7 @@ a {
 }
 
 #child-post-three {
-  top: 100px;
+  top: 60px;
 }
 
 #main-post-four {
@@ -232,7 +232,7 @@ footer {
   color: #ffffff;
   font-weight: 100;
   padding: 30px 0;
-  margin: 30px auto;
+  margin: 30px auto 0 auto;
   height: 50px;
 }
 
